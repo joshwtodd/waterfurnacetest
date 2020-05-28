@@ -75,6 +75,10 @@ DATA_REQUEST = {
         "TStatMode",
         "TStatHeatingSetpoint",
         "TStatCoolingSetpoint",
+        "iz2_z1_roomtemp",
+        "iz2_z2_roomtemp",
+        "iz2_z3_roomtemp",
+        "iz2_z4_roomtemp",
         "AWLTStatType"],
     "source": "consumer dashboard"}
 
